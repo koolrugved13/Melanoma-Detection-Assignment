@@ -1,5 +1,5 @@
 # Melanoma Detection 
-> The project outline is to revolutionize skin cancer detection 
+> The project outline is to revolutionize the skin cancer detection.
 
 
 ## Table of Contents
