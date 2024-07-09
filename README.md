@@ -49,12 +49,12 @@ The data set contains the following diseases:
 
 
 ## Technologies Used
--Numpy lib.
--pandas lib.
--matplotlib lib.
--seaborn lib.
--Tensorflow lib.
--Keras module from Tensorflow
+- Numpy lib.
+- pandas lib.
+- matplotlib lib.
+- seaborn lib.
+- Tensorflow lib.
+- Keras module from Tensorflow
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
