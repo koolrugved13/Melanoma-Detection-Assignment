@@ -61,7 +61,7 @@ The data set contains the following diseases:
 
 
 ## Contact
-Created by [@koolrugved13] - feel free to contact me!
+Created by [@koolrugved13](#@koolrugved13) - feel free to contact me!
 
 
 <!-- Optional -->
