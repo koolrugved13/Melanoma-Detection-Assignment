@@ -40,10 +40,11 @@ The data set contains the following diseases:
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+-We can infer that the Model is fit with a good enough accuracy for both Train and Validation Data of max accuracy around 85% Rectifying the Class Imbalance and performing Data augumentation on the dataset has resulted in a model with higher accuracy and overcoming overfitting This is a good model to be used to predict Skin Cancer using CNN.
+Accuracy on training data has increased by using Augmentor library
+-Model is still overfitting
+-The problem of overfitting can be solved by add more layer,neurons or adding dropout layers.
+-The Model can be further improved by tuning the hyperparameter
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
